@@ -3,7 +3,7 @@
 ---
 
 # svelte app
-- A Svetle blog project that lets user add title , body and limit the number of posts!
+- A Svetle blog project that lets user add, edit and delete and limit the number of posts on the screen!
 
 ## Project Sreenshot!
 
