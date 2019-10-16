@@ -3,6 +3,11 @@
 ---
 
 # svelte app
+- A Svetle blog project that lets user add title , body and limit the number of posts!
+
+## Project Sreenshot!
+
+![image](Svetle.png)
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
